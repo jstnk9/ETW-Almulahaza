@@ -60,7 +60,7 @@ Monitor `explorer.exe` and its childrens.
 ```
 
 # ToDo 
-[] Add config file to specify providers to monitor and task names
-[] Convert outputs in other formats
-[] Add providers on the fly
-[] ....
+- [ ] Add config file to specify providers to monitor and task names
+- [ ] Convert outputs in other formats
+- [ ] Add providers on the fly
+- [ ] ....
