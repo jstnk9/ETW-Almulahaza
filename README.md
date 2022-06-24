@@ -1,6 +1,6 @@
 # ETW-Almulahaza
 
-ETW-Almulahaza is a consumer python-based tool that help you monitor ETW events of the operating system. The purpose of this tool is to help analysts during researching of either malware or simply lolbas or other binaries that are intended to understand their behavior. 
+ETW-Almulahaza is a python-based consumer tool that help you monitor ETW events of the operating system. The purpose of this tool is to help analysts during researching of either malware or simply lolbas or other binaries that are intended to understand their behavior. 
 
 This project uses [pywintrace](https://github.com/fireeye/pywintrace) lib.
 
